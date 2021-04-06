@@ -28,7 +28,7 @@ const LoginScreen = ({ navigation }) => {
             <StatusBar style="light" />
             <Image
               source={{
-                  uri: "https://blog.mozilla.org/internetcitizen/files/2018/08/signal-logo.png",
+                  uri: "https://cdn.dribbble.com/users/2425910/screenshots/6433112/23.jpg?compress=1&resize=400x300",
               }}
               style={{width: 200, height: 200}}
             />
